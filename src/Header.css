@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between; /* Keeps items on opposite sides */
+    align-items: center;
+    height: 20px; /* Adjust the height as needed */
+    padding: 20px;
+    background: grey;
+  }
+  
+  .logo {
+    height: 100px;
+    position: absolute;
+    top: 20px; /* Distance from the top */
+    left: 30px; /* Distance from the left */
+  }
+  
+  

@@ -1,0 +1,18 @@
+.main-menu {
+    text-align: center; /* Center align the text */
+    margin-top: 50px; /* Space from the top */
+    color: 'Arial', sans-serif; /* Text color */
+    font-family: 'Arial', sans-serif; /* Font styling */
+  }
+  
+  .main-menu h1 {
+    font-size: 36px; /* Font size for the main heading */
+    font-weight: bold; /* Bold text */
+    margin-bottom: 10px; /* Space below the heading */
+  }
+  
+  .main-menu h2 {
+    font-size: 28px; /* Subheading font size */
+    font-weight: bold;
+    margin-bottom: 10px; /* A lighter shade for contrast */
+  }
